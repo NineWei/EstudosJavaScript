@@ -6,7 +6,7 @@
 - prompt = input (do Python).
 - É utilizado para inserir os dados (entrada).
 - Não roda no terminal, apenas no navegador.
-- O prompt captura o valor como STRING. Na soma, ao invés de somar, pode concatenar as Strings. em "## Dicas" mostra a sugestão de como corrigir, utilizando o parseFloat, por exemplo.
+- O prompt captura o valor como STRING. Na soma, ao invés de somar, pode concatenar as Strings. Em [Dicas](#Dicas) mostra a sugestão de como corrigir, utilizando o parseFloat, por exemplo.
 
 ### Execução de arquivo no terminal
 - Pra executar o arquivo no terminal, escreve node + o nome do arquivo, exemplo: "node script.js".
@@ -50,3 +50,4 @@ console.log(soma);
 - confirm: Janela de diálogo que aparece no navegador. "Confirmar" ou "Deletar".
 - snake case: numero_inteiro
 - camel case: numeroInteiro
+- Me aprofundar no tema **Template literals**. Link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
