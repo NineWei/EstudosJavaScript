@@ -15,12 +15,12 @@
 - Funciona como print do Python (saída dos dados).
 - Exemplo:
 ```python
-const numero1 = parseFloat(prompt("Digite o primeiro número"))
-const numero2 = parseFloat(prompt("Digite o segundo número"))
+const numero1 = parseFloat(prompt("Digite o primeiro número"));
+const numero2 = parseFloat(prompt("Digite o segundo número"));
 
-const soma = numero1+numero2
+const soma = numero1+numero2;
 
-console.log(soma)
+console.log(soma);
 ```
 
 ---
