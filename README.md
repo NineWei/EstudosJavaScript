@@ -27,7 +27,7 @@ console.log(soma);
 
 ## Variáveis
 
-1. var - NÃO USAR! Serve pra iniciar uma variável.
+1. var - **NÃO USAR!** Serve pra iniciar uma variável.
 2. let - Vai inicializar uma variável. NÃO USAR "VAR", ao invés disso, recomenda-se utilizar o let.
 3. const - É indicado iniciar uma variável com const, pra **não mudar ela**, mas caso queira mudar, usar o let.
    
@@ -42,7 +42,7 @@ console.log(soma);
   </body>
   ```
   Isso é feito para vincular o arquivo JavaScript externo ao HTML, permitindo que o código JavaScript seja executado quando a página for carregada.
-- O ";" define o final de uma linha. No JavaScript não é obrigatório inserir, mas é considerado boas práticas.
+- O ";" define o final de uma linha. No JavaScript não é obrigatório inserir, mas é considerado boa prática para evitar possíveis erros de interpretação.
 - ESLint ajuda a corrigir os códigos (formatador de código). Pesquisar sobre.
 - parseFloat: indica que a "String" é um Float.
 - parseInt: indica que a "String" é um número Inteiro. Ou pode usar "Number".
